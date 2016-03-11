@@ -33,7 +33,7 @@
 18. Type the following into the new command window:<br/>
     ```
     adb sideload nexusota.zip
-    ```
+    ```<br/>
     ...and press enter on your computer.
 19. Wait for the OTA to copy to the phone and update it.
 20. When update is complete, the Recovery choices will come back with the reboot choice highlighted.<br/>
