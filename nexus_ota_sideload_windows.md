@@ -1,4 +1,4 @@
-01. Download and install Google’s USB Drivers.
+01. Download and install Google’s USB Drivers.\n
     https://developer.android.com/sdk/win-usb.html
 02. Reboot PC.
 03. Download the correct Android OTA Update for your Nexus device to your PC.
