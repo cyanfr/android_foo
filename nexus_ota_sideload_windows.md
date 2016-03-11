@@ -11,7 +11,7 @@
 07. Open a command window and type:<br/>
     ```
     adb devices
-    ```
+    ```<br/>
 08. Connect your Nexus phone with a USB cable.
 09. Watch your phone for the prompt to "Allow USB Debugging?"<br/>
     Check "Always allow..." and hit "OK".
