@@ -3,7 +3,7 @@
 02. Reboot PC.
 03. Download the correct Android OTA Update for your Nexus device to your PC.<br/>
     Check your about device's settings > about device > build number screen for your current version.<br/>
-    OTAs are available here:  https://developers.google.com/android/nexus/ota#instructions
+    OTAs are available here:  https://developers.google.com/android/nexus/ota#instructions<br/>
     After download, rename the zip file to nexusota.zip.
 04. Enable Developer Mode on your Nexus device.
 05. Enable USB Debugging Mode on your Nexus device.
